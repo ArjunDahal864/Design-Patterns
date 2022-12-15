@@ -1,0 +1,1 @@
+/Users/azminds-arjun/Desktop/Design Patterns/Singleton/build/classes/kotlin/main/MainKt.class:/Users/azminds-arjun/Desktop/Design Patterns/Singleton/build/classes/kotlin/main/Singleton.class
